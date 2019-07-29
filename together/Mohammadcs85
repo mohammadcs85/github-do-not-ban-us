@@ -1,1 +1,11 @@
-
+using System;
+namespace Github
+{
+  class dont_ban_us
+  {
+     static void main(string[] args)
+     {
+       Console.WriteLine("Github is for everyone");
+     }
+   }
+ }
